@@ -12,5 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
+This repository has been forked. merged and pulled through the account "Susheel03"
 
 _© 2023 XYZ, Inc._
